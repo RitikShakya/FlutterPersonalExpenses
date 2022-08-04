@@ -1,16 +1,8 @@
-# personal_expeses_app
+Main Page
+![image](https://user-images.githubusercontent.com/84911098/182831077-5d4af2e1-9f47-426c-b04d-e90243ef848b.png)
 
-A new Flutter project.
+Adding New Transaction
+![image](https://user-images.githubusercontent.com/84911098/182831116-32cf786d-db68-4ef0-afbb-b87bc1f276a5.png)
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Setting the Date
+![image](https://user-images.githubusercontent.com/84911098/182831166-3e204b4e-c6f3-4b63-aac6-9b46c5eaa458.png)
